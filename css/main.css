@@ -1,0 +1,38 @@
+h1 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 48px;
+  line-height: 60px;
+  width: 551;
+}
+
+.heading h1 {
+  color: black;
+  font-weight: normal;
+}
+
+.heading span {
+  color: #F76C6C;
+  font-weight: bold;
+}
+
+body {
+font-family: 'Open Sans', sans-serif;
+margin: 240px 260px 40px 284px;
+	height: 114px;
+	width: 870px;
+	color: #252525;
+	font-size: 24px;
+	line-height: 38px;
+}
+
+.portfolio {
+  color: #4E61BD;
+}
+
+.resume {
+  color: #4E61BD;
+}
+
+.email {
+  color: #4E61BD;
+}
