@@ -11,7 +11,7 @@ h1 {
 }
 
 .heading span {
-  color: #252525
+  color: #73B0E3;
   font-weight: bold;
 }
 
@@ -26,13 +26,13 @@ margin: 240px 260px 40px 284px;
 }
 
 .portfolio {
-  color: #89CFDD;
+  color: #73B0E3;
 }
 
 .resume {
-  color: #89CFDD;
+  color: #73B0E3;
 }
 
 .email {
-  color: #89CFDD;
+  color: #73B0E3;
 }
